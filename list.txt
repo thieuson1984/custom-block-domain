@@ -1,0 +1,99 @@
+!
+! Title: AdGuard DNS filter
+! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
+! Last modified: 2021-10-05T06:05:08.949Z
+!
+!
+!
+! Source name: AdGuard VN Custom Filter List
+! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/EnglishFilter/sections/adservers.txt
+!
+!
+! Section contains list of advertising networks
+!
+! The rules with hints are at the end of file
+!
+||560bet.com^
+||580bet.com^
+||580bet.net^
+||666cdn.net^
+||ace222.com^
+||alpha222.com
+||bccuez.com^
+||betsbo.com^
+||betsbobet.com^
+||bsgwave.com^
+||canbetasia.com^
+||cdnnetworks.net^
+||ceocus.com^
+||com3456.com^
+||e16811.com^
+||e16833.com^
+||e16855.com^
+||e16877.com^
+||e16899.com^
+||edgecasts.net^
+||edgepop.net^
+||gabungsbo.com^
+||gogosbo.com^
+||gotosbo.com^
+||hellosbo.com^
+||jcout.com^
+||join-sbo.com^
+||join-sbobet.com^
+||joinsbo.com^
+||joinsbobet.com^
+||luckypicky.com^
+||mahci.com^
+||monust.com^
+||ocstry.com^
+||pic5678.com^
+||potato111.com^
+||potato222.com^
+||potato333.com^
+||potato777.com^
+||prowellstars.com^
+||pure-static.com^
+||puresbo.com^
+||pureshield.com^
+||sbo-member.com^
+||sbobet-info.com^
+||sbobet-pay.com^
+||sbobet-payment.com^
+||sbobet.com^
+||sbobet.tw^
+||sbobet2.com^
+||sbobeteu.com^
+||sbobetex.com^
+||sbobethk.com^
+||sbobetid.com^
+||sbobetindo.com^
+||sbobetmy.com^
+||sbobetonline.com^
+||sbobetpay.com^
+||sbobetpayment.com^
+||sbobetph.com^
+||sbobetsg.com^
+||sbobetth.com^
+||sbobetuk.com^
+||sbofun.com^
+||sboinfo.com^
+||sbopay.com^
+||sbopayment.com^
+||sbostatic.com^
+||sbostatic2.com^
+||sbostatic3.com^
+||sbotest.com^
+||sbotesting.com^
+||secureiron.com^
+||ssobet.com^
+||tek789.com^
+||transbetting.com^
+||u16800.com^
+||u16822.com^
+||u16844.com^
+||u16866.com^
+||u16888.com^
+||wowsbo.com^
